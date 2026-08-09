@@ -1,11 +1,4 @@
 # clownfishrob
-
-> Learning velocity and project potential.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
-
-## Header
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=clownfishrob&theme=github-dark&mode=light" />
